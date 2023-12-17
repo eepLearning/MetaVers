@@ -1,4 +1,4 @@
-## MetaVers: Meta-Learned Versatile Representations with Large Margins for Personalized Federated Learning
+## [Official] MetaVers: Meta-Learned Versatile Representations for Personalized Federated Learning
 
 ![](fig/ov3.png)
 

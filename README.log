@@ -1,0 +1,18 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdftex 2021.7.3)  25 MAY 2023 00:23
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**README.md
+(./README.md
+./README.md:1: You can't use `macro parameter character #' in vertical mode.
+l.1 #
+     # MetaVers: Meta-Learned Versatile Representations with Large Margins f...
+
+? 
+./README.md:1: Emergency stop.
+l.1 #
+     # MetaVers: Meta-Learned Versatile Representations with Large Margins f...
+End of file on the terminal!
+
+./README.md:1:  ==> Fatal error occurred, no output PDF file produced!
